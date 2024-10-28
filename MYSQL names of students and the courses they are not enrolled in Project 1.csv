@@ -1,0 +1,290 @@
+First_Name;Last_Name;Course_Name
+Zainab;Mumu;Mathematics
+Zainab;Mumu;"Use of Library"
+Zainab;Mumu;Literature-in-English
+Zainab;Mumu;Sociology
+Zainab;Mumu;"Criminal Law"
+Zainab;Mumu;"Introduction to Philosophy"
+Zainab;Mumu;Psychology
+Zainab;Mumu;"Introduction to Accounting"
+Fatima;Good;Physics
+Fatima;Good;Mathematics
+Fatima;Good;"Use of Library"
+Fatima;Good;"Commercial Law"
+Fatima;Good;Literature-in-English
+Fatima;Good;Sociology
+Fatima;Good;"Criminal Law"
+Fatima;Good;"Introduction to Philosophy"
+Fatima;Good;Psychology
+Fatima;Good;"Introduction to Accounting"
+Gerald;Ojukwu;Physics
+Gerald;Ojukwu;Mathematics
+Gerald;Ojukwu;"Use of Library"
+Gerald;Ojukwu;"Commercial Law"
+Gerald;Ojukwu;Literature-in-English
+Gerald;Ojukwu;Sociology
+Gerald;Ojukwu;"Criminal Law"
+Gerald;Ojukwu;"Introduction to Philosophy"
+Gerald;Ojukwu;Psychology
+Gerald;Ojukwu;"Introduction to Accounting"
+Daniel;Hardy;Physics
+Daniel;Hardy;Mathematics
+Daniel;Hardy;"Use of Library"
+Daniel;Hardy;"Commercial Law"
+Daniel;Hardy;Literature-in-English
+Daniel;Hardy;Sociology
+Daniel;Hardy;"Criminal Law"
+Daniel;Hardy;"Introduction to Philosophy"
+Daniel;Hardy;Psychology
+Daniel;Hardy;"Introduction to Accounting"
+Micheal;Olomola;Physics
+Micheal;Olomola;Mathematics
+Micheal;Olomola;"Use of Library"
+Micheal;Olomola;"Commercial Law"
+Micheal;Olomola;Literature-in-English
+Micheal;Olomola;Sociology
+Micheal;Olomola;"Introduction to Philosophy"
+Micheal;Olomola;Psychology
+Micheal;Olomola;"Introduction to Accounting"
+John;Doe;Physics
+John;Doe;Mathematics
+John;Doe;"Use of Library"
+John;Doe;"Commercial Law"
+John;Doe;Literature-in-English
+John;Doe;Sociology
+John;Doe;"Criminal Law"
+John;Doe;"Introduction to Philosophy"
+John;Doe;Psychology
+John;Doe;"Introduction to Accounting"
+Jane;Smith;Physics
+Jane;Smith;Mathematics
+Jane;Smith;"Use of Library"
+Jane;Smith;"Commercial Law"
+Jane;Smith;Literature-in-English
+Jane;Smith;Sociology
+Jane;Smith;"Criminal Law"
+Jane;Smith;"Introduction to Philosophy"
+Jane;Smith;Psychology
+Jane;Smith;"Introduction to Accounting"
+Mike;Johnson;Physics
+Mike;Johnson;Mathematics
+Mike;Johnson;"Use of Library"
+Mike;Johnson;"Commercial Law"
+Mike;Johnson;Literature-in-English
+Mike;Johnson;Sociology
+Mike;Johnson;"Criminal Law"
+Mike;Johnson;"Introduction to Philosophy"
+Mike;Johnson;Psychology
+Mike;Johnson;"Introduction to Accounting"
+Emily;Davis;Physics
+Emily;Davis;Mathematics
+Emily;Davis;"Use of Library"
+Emily;Davis;"Commercial Law"
+Emily;Davis;Literature-in-English
+Emily;Davis;Sociology
+Emily;Davis;"Criminal Law"
+Emily;Davis;"Introduction to Philosophy"
+Emily;Davis;Psychology
+Emily;Davis;"Introduction to Accounting"
+Chris;Brown;Physics
+Chris;Brown;Mathematics
+Chris;Brown;"Use of Library"
+Chris;Brown;"Commercial Law"
+Chris;Brown;Literature-in-English
+Chris;Brown;Sociology
+Chris;Brown;"Criminal Law"
+Chris;Brown;"Introduction to Philosophy"
+Chris;Brown;Psychology
+Chris;Brown;"Introduction to Accounting"
+Jessica;Wilson;Physics
+Jessica;Wilson;Mathematics
+Jessica;Wilson;"Use of Library"
+Jessica;Wilson;"Commercial Law"
+Jessica;Wilson;Literature-in-English
+Jessica;Wilson;Sociology
+Jessica;Wilson;"Criminal Law"
+Jessica;Wilson;"Introduction to Philosophy"
+Jessica;Wilson;Psychology
+Jessica;Wilson;"Introduction to Accounting"
+David;Miller;Mathematics
+David;Miller;"Use of Library"
+David;Miller;"Commercial Law"
+David;Miller;Literature-in-English
+David;Miller;Sociology
+David;Miller;"Criminal Law"
+David;Miller;"Introduction to Philosophy"
+David;Miller;Psychology
+David;Miller;"Introduction to Accounting"
+Sarah;Taylor;Physics
+Sarah;Taylor;Mathematics
+Sarah;Taylor;"Commercial Law"
+Sarah;Taylor;Literature-in-English
+Sarah;Taylor;Sociology
+Sarah;Taylor;"Criminal Law"
+Sarah;Taylor;"Introduction to Philosophy"
+Sarah;Taylor;Psychology
+Sarah;Taylor;"Introduction to Accounting"
+Brian;Anderson;Physics
+Brian;Anderson;Mathematics
+Brian;Anderson;"Use of Library"
+Brian;Anderson;"Commercial Law"
+Brian;Anderson;Literature-in-English
+Brian;Anderson;Sociology
+Brian;Anderson;"Criminal Law"
+Brian;Anderson;"Introduction to Philosophy"
+Brian;Anderson;Psychology
+Brian;Anderson;"Introduction to Accounting"
+Megan;Thomas;Physics
+Megan;Thomas;Mathematics
+Megan;Thomas;"Use of Library"
+Megan;Thomas;"Commercial Law"
+Megan;Thomas;Sociology
+Megan;Thomas;"Criminal Law"
+Megan;Thomas;"Introduction to Philosophy"
+Megan;Thomas;Psychology
+Megan;Thomas;"Introduction to Accounting"
+Kevin;Jackson;Physics
+Kevin;Jackson;Mathematics
+Kevin;Jackson;"Use of Library"
+Kevin;Jackson;"Commercial Law"
+Kevin;Jackson;Literature-in-English
+Kevin;Jackson;Sociology
+Kevin;Jackson;"Criminal Law"
+Kevin;Jackson;"Introduction to Philosophy"
+Kevin;Jackson;Psychology
+Kevin;Jackson;"Introduction to Accounting"
+Rachel;White;Physics
+Rachel;White;Mathematics
+Rachel;White;"Use of Library"
+Rachel;White;"Commercial Law"
+Rachel;White;Literature-in-English
+Rachel;White;Sociology
+Rachel;White;"Criminal Law"
+Rachel;White;"Introduction to Philosophy"
+Rachel;White;Psychology
+Rachel;White;"Introduction to Accounting"
+Laura;Harris;Physics
+Laura;Harris;Mathematics
+Laura;Harris;"Use of Library"
+Laura;Harris;"Commercial Law"
+Laura;Harris;Literature-in-English
+Laura;Harris;Sociology
+Laura;Harris;"Criminal Law"
+Laura;Harris;"Introduction to Philosophy"
+Laura;Harris;Psychology
+Laura;Harris;"Introduction to Accounting"
+Daniel;Martin;Physics
+Daniel;Martin;Mathematics
+Daniel;Martin;"Use of Library"
+Daniel;Martin;"Commercial Law"
+Daniel;Martin;Literature-in-English
+Daniel;Martin;Sociology
+Daniel;Martin;"Criminal Law"
+Daniel;Martin;"Introduction to Philosophy"
+Daniel;Martin;Psychology
+Daniel;Martin;"Introduction to Accounting"
+Amy;Thompson;Physics
+Amy;Thompson;Mathematics
+Amy;Thompson;"Use of Library"
+Amy;Thompson;"Commercial Law"
+Amy;Thompson;Literature-in-English
+Amy;Thompson;Sociology
+Amy;Thompson;"Criminal Law"
+Amy;Thompson;"Introduction to Philosophy"
+Amy;Thompson;Psychology
+Amy;Thompson;"Introduction to Accounting"
+Mark;Garcia;Physics
+Mark;Garcia;Mathematics
+Mark;Garcia;"Use of Library"
+Mark;Garcia;"Commercial Law"
+Mark;Garcia;Literature-in-English
+Mark;Garcia;Sociology
+Mark;Garcia;"Criminal Law"
+Mark;Garcia;"Introduction to Philosophy"
+Mark;Garcia;Psychology
+Mark;Garcia;"Introduction to Accounting"
+Christopher;Rodriguez;Physics
+Christopher;Rodriguez;Mathematics
+Christopher;Rodriguez;"Use of Library"
+Christopher;Rodriguez;"Commercial Law"
+Christopher;Rodriguez;Literature-in-English
+Christopher;Rodriguez;Sociology
+Christopher;Rodriguez;"Criminal Law"
+Christopher;Rodriguez;"Introduction to Philosophy"
+Christopher;Rodriguez;Psychology
+Christopher;Rodriguez;"Introduction to Accounting"
+Amanda;Lee;Physics
+Amanda;Lee;Mathematics
+Amanda;Lee;"Use of Library"
+Amanda;Lee;"Commercial Law"
+Amanda;Lee;Literature-in-English
+Amanda;Lee;Sociology
+Amanda;Lee;"Criminal Law"
+Amanda;Lee;"Introduction to Philosophy"
+Amanda;Lee;Psychology
+Amanda;Lee;"Introduction to Accounting"
+Matthew;Walker;Physics
+Matthew;Walker;Mathematics
+Matthew;Walker;"Use of Library"
+Matthew;Walker;"Commercial Law"
+Matthew;Walker;Literature-in-English
+Matthew;Walker;Sociology
+Matthew;Walker;"Criminal Law"
+Matthew;Walker;"Introduction to Philosophy"
+Matthew;Walker;Psychology
+Matthew;Walker;"Introduction to Accounting"
+Nicole;Hall;Physics
+Nicole;Hall;Mathematics
+Nicole;Hall;"Use of Library"
+Nicole;Hall;"Commercial Law"
+Nicole;Hall;"Criminal Law"
+Nicole;Hall;Psychology
+Nicole;Hall;"Introduction to Accounting"
+Olivia;Hernandez;Physics
+Olivia;Hernandez;Mathematics
+Olivia;Hernandez;"Use of Library"
+Olivia;Hernandez;"Commercial Law"
+Olivia;Hernandez;Literature-in-English
+Olivia;Hernandez;Sociology
+Olivia;Hernandez;"Criminal Law"
+Olivia;Hernandez;"Introduction to Philosophy"
+Olivia;Hernandez;Psychology
+Olivia;Hernandez;"Introduction to Accounting"
+Benjamin;Scott;Physics
+Benjamin;Scott;Mathematics
+Benjamin;Scott;"Use of Library"
+Benjamin;Scott;"Commercial Law"
+Benjamin;Scott;Literature-in-English
+Benjamin;Scott;Sociology
+Benjamin;Scott;"Criminal Law"
+Benjamin;Scott;"Introduction to Philosophy"
+Benjamin;Scott;Psychology
+Benjamin;Scott;"Introduction to Accounting"
+Sophia;Wright;Physics
+Sophia;Wright;Mathematics
+Sophia;Wright;"Use of Library"
+Sophia;Wright;"Commercial Law"
+Sophia;Wright;Literature-in-English
+Sophia;Wright;Sociology
+Sophia;Wright;"Criminal Law"
+Sophia;Wright;"Introduction to Philosophy"
+Sophia;Wright;"Introduction to Accounting"
+Anthony;King;Physics
+Anthony;King;Mathematics
+Anthony;King;"Use of Library"
+Anthony;King;"Commercial Law"
+Anthony;King;Literature-in-English
+Anthony;King;Sociology
+Anthony;King;"Criminal Law"
+Anthony;King;"Introduction to Philosophy"
+Anthony;King;Psychology
+Anthony;King;"Introduction to Accounting"
+Jessica;Martin;Physics
+Jessica;Martin;Mathematics
+Jessica;Martin;"Use of Library"
+Jessica;Martin;"Commercial Law"
+Jessica;Martin;Literature-in-English
+Jessica;Martin;Sociology
+Jessica;Martin;"Criminal Law"
+Jessica;Martin;"Introduction to Philosophy"
+Jessica;Martin;Psychology
